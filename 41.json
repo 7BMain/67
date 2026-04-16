@@ -1,0 +1,111 @@
+{
+  "name": "Blue Bunny Theme",
+  "description": "A clean blue-toned theme for Bunny/Vendetta Discord client",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "You",
+      "id": "000000000000000000"
+    }
+  ],
+  "background": {
+    "url": "https://cdn.discordapp.com/attachments/1488839102705963094/1493878395988349048/IMG_1501.jpg?ex=69e0922c&is=69df40ac&hm=fa2c171a526365c1c6e85b340b97315aa5fd98c221af7c45bb99ff04efd6d404&",
+    "blur": 0,
+    "opacity": 0.15
+  },
+  "colors": {
+    "PRIMARY_DARK": "#042C53",
+    "PRIMARY_DARK_ALT": "#0C447C",
+    "PRIMARY_DARK_300": "#185FA5",
+    "PRIMARY_DARK_360": "#1A6AB8",
+    "PRIMARY_DARK_400": "#2176C9",
+    "PRIMARY_DARK_500": "#378ADD",
+    "BRAND_NEW": "#185FA5",
+    "BRAND_NEW_100": "#E6F1FB",
+    "BRAND_NEW_200": "#B5D4F4",
+    "BRAND_NEW_300": "#85B7EB",
+    "BRAND_NEW_400": "#378ADD",
+    "BRAND_NEW_500": "#185FA5",
+    "BRAND_NEW_560": "#0F5090",
+    "BRAND_NEW_600": "#0C447C",
+    "BRAND_NEW_700": "#083460",
+    "BRAND_NEW_800": "#042C53",
+    "BRAND_NEW_900": "#021A33",
+    "BACKGROUND_PRIMARY": "#03192E",
+    "BACKGROUND_SECONDARY": "#04233F",
+    "BACKGROUND_SECONDARY_ALT": "#052D52",
+    "BACKGROUND_TERTIARY": "#021525",
+    "BACKGROUND_ACCENT": "#185FA5",
+    "BACKGROUND_FLOATING": "#031A2E",
+    "BACKGROUND_MOBILE_PRIMARY": "#03192E",
+    "BACKGROUND_MOBILE_SECONDARY": "#04233F",
+    "BACKGROUND_MODIFIER_HOVER": "rgba(23,97,170,0.08)",
+    "BACKGROUND_MODIFIER_ACTIVE": "rgba(23,97,170,0.16)",
+    "BACKGROUND_MODIFIER_SELECTED": "rgba(23,97,170,0.24)",
+    "BACKGROUND_MODIFIER_ACCENT": "rgba(23,97,170,0.12)",
+    "CHANNELS_DEFAULT": "#85B7EB",
+    "CHANNEL_TEXT_AREA_PLACEHOLDER": "#378ADD80",
+    "INTERACTIVE_NORMAL": "#85B7EB",
+    "INTERACTIVE_HOVER": "#B5D4F4",
+    "INTERACTIVE_ACTIVE": "#E6F1FB",
+    "INTERACTIVE_MUTED": "#0C447C",
+    "TEXT_NORMAL": "#E6F1FB",
+    "TEXT_MUTED": "#85B7EB",
+    "TEXT_LINK": "#5AB0F7",
+    "HEADER_PRIMARY": "#E6F1FB",
+    "HEADER_SECONDARY": "#85B7EB",
+    "STATUS_POSITIVE": "#3BA55D",
+    "STATUS_WARNING": "#FAA81A",
+    "STATUS_DANGER": "#ED4245",
+    "SCROLLBAR_THIN_THUMB": "#185FA5",
+    "SCROLLBAR_THIN_TRACK": "transparent",
+    "SCROLLBAR_AUTO_THUMB": "#185FA5",
+    "SCROLLBAR_AUTO_TRACK": "#03192E",
+    "FOCUS_PRIMARY": "#378ADD",
+    "CONTROL_BRAND_FOREGROUND": "#378ADD",
+    "CONTROL_BRAND_FOREGROUND_NEW": "#378ADD"
+  },
+  "semanticColors": {
+    "ACTIVITY_CARD_BACKGROUND": [
+      [
+        "#04233F"
+      ],
+      [
+        "#FFFFFF"
+      ]
+    ],
+    "GUILD_HEADER_TEXT_SHADOW": [
+      [
+        "rgba(0,0,0,0.4)"
+      ],
+      [
+        "rgba(0,0,0,0.2)"
+      ]
+    ],
+    "MODAL_BACKGROUND": [
+      [
+        "#03192E"
+      ],
+      [
+        "#FFFFFF"
+      ]
+    ],
+    "MODAL_FOOTER_BACKGROUND": [
+      [
+        "#021525"
+      ],
+      [
+        "#F2F3F5"
+      ]
+    ],
+    "TEXTBOX_MARKDOWN_SYNTAX": [
+      [
+        "#378ADD"
+      ],
+      [
+        "#185FA5"
+      ]
+    ]
+  },
+  "rawCSS": ""
+}
